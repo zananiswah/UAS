@@ -1,4 +1,4 @@
-/* Proyek Akhir Pemrogram Lanjut Semester 2
+/* Proyek Akhir Pemrogram Lanjut
 Kelas           : Pemrograman Lanjut -02
 Kelompok        : 8
 Nama Anggota    :
@@ -6,7 +6,7 @@ Nama Anggota    :
         - Firzy Allen             (2006577555)
         - Steven Yosua Saputra    (2006577290)
         - Zana Niswah Awahita     (2006577593)
-Judul Proyek    : Program Perampungan dan Pembuatan SKL (Surat Keterangan Lulus)
+Judul Proyek    : Program Perampungan dan Pembuatan SKL
 */
 
 #include <stdio.h>
