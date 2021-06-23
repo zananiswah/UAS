@@ -1,6 +1,6 @@
 /* Proyek Akhir Pemrogram Lanjut Semester 2
 Kelas           : Pemrograman Lanjut -02
-Kelompok        : 8
+Kelompok        : 8 (Delapan)
 Nama Anggota    :
         - Amanda Fairuz Syifa     (2006535653)
         - Firzy Allen             (2006577555)
