@@ -17,7 +17,7 @@ Judul Proyek    : Program Perampungan dan Pembuatan SKL
 
 #define MAX_LENGTH 256
 #define SIZE 100
-//halo gaisssss
+
 //Inisialisasi function prototype
 int search_database_sekolah(char input[]);
 int display_database_sekolah();
