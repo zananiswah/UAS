@@ -1,4 +1,4 @@
-/* Proyek Akhir Pemrograman Lanjut
+/* Proyek Akhir Pemrogram Lanjut
 Kelas           : Pemrograman Lanjut -02
 Kelompok        : 8
 Nama Anggota    :
